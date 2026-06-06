@@ -1,0 +1,156 @@
+{
+  "recordInfo": {
+    "recordId": "RES-NEW-25-000308",
+    "recordType": "Residential New Construction Permit",
+    "recordStatus": "Closed - Complete",
+    "expirationDate": "10/22/2026"
+  },
+  "workLocation": "8233 FRANKLIN TRAIL ST | MINT HILL NC 28227 * |",
+  "applicant": {
+    "name": "Mandy Chavis",
+    "businessName": "Tri Pointe Homes Holdings, Inc.",
+    "address": "6325 Ardrey Kell Rd. Suite 125",
+    "region": "Charlotte, NC, 28277 CHARLOTTE, NC, 28277 Charlotte, NC, 28277",
+    "country": "United States",
+    "phone": "",
+    "email": "charlottepermitting@tripointehomes.com"
+  },
+  "licensedProfessionals": [
+    "Tri Pointe Homes Holdings, Inc. charlottepermitting@tripointehomes.com | TRI POINTE HOMES HOLDINGS, INC. | 6325 Ardrey Kell Rd. Suite 125 | Charlotte, NC, 28277 | Home Phone:7049690776Building Contractor 82776 |",
+    "7049690776"
+  ],
+  "projectDescription": "Alton Creek Lot 4 | Alton Creek Lot 4 | Previously Master Plan Reviewed in Winchester, 2525 plan, master plan approval #464920 New master plan R-MP-001000 New construction - single family home, two stories with an attached front loading two car garage. Rear of home will have a covered porch. Home will have 5 bedrooms and 3 baths. Exterior will be composed of brick.",
+  "owner": "CHARLOTTE NC 28277",
+  "relatedContacts": [
+    "Property Owner information Tri POINTE HOMES HOLDINGS INC | Tri Pointe Homes Holdings, Inc. | 8233 FRANKLIN TRAIL ST MINT HILL NC | CHARLOTTE, NC, 28277 | United StatesWork Phone:7049690776E-mail:charlottepermitting@tripointehomes.com Receive automatic email updates?: NoRequestor Association: Owner/Developer",
+    "Authorized Agent information Andres Ibanez | Tri Pointe Homes Holdings, Inc. | 6325 Ardrey Kell Rd. Suite 125 | Charlotte, NC, 28277 | United StatesWork Phone:7049690774Mobile Phone:7049690774E-mail:andres.ibanez@tripointehomes.com"
+  ],
+  "applicationInformation": {},
+  "applicationInformationTables": {
+    "CONTRACTOR INFORMATION": [
+      {
+        "Trade License Type": "Mechanical Contractor",
+        "License Number": "36569",
+        "Contractor Name": "Charles Edward Scott Jr.",
+        "Total Construction Cost": "1000",
+        "Scope of Work": "Pre fab, gas logs, direct vent in great room",
+        "Contractor Bond Account Name": "Hearth Technologies",
+        "By Selecting Yes, You are certifying that this information is correct": "Yes"
+      },
+      {
+        "Trade License Type": "Plumbing Contractor",
+        "License Number": "35475",
+        "Contractor Name": "Andrew Scott Stancil",
+        "Total Construction Cost": "16100",
+        "Scope of Work": "New construction - plumbing - slab, rough, trim and final inspections. Tie in for water and sewer lines.",
+        "Contractor Bond Account Name": "QUAN BROTHERS PLUMBING INC",
+        "By Selecting Yes, You are certifying that this information is correct": "Yes"
+      },
+      {
+        "Trade License Type": "Mechanical Contractor",
+        "License Number": "29335",
+        "Contractor Name": "Robert Kelly Painter",
+        "Total Construction Cost": "13000",
+        "Scope of Work": "New construction - Mechanical HVAC, rough, trim and final inspections.",
+        "Contractor Bond Account Name": "PAINTER ROBERT KELLY",
+        "By Selecting Yes, You are certifying that this information is correct": "Yes"
+      },
+      {
+        "Trade License Type": "Electrical Contractor",
+        "License Number": "23137",
+        "Contractor Name": "Audio Video Specialties LLC",
+        "Total Construction Cost": "800",
+        "Scope of Work": "low volt - installation of CAT6 cabling to 3 jacks and an internet hub in laundry room. Installation of Ring doorbell",
+        "Contractor Bond Account Name": "MARKS R LLC",
+        "By Selecting Yes, You are certifying that this information is correct": "Yes"
+      },
+      {
+        "Trade License Type": "Electrical Contractor",
+        "License Number": "27516",
+        "Contractor Name": "TayCo Electric & Solar Inc.",
+        "Total Construction Cost": "8700",
+        "Scope of Work": "New construction - electric - rough, trim and final inspections. Saw pole needed",
+        "Contractor Bond Account Name": "TAYCO ELECTRIC INC",
+        "By Selecting Yes, You are certifying that this information is correct": "Yes"
+      },
+      {
+        "Trade License Type": "Building Contractor",
+        "License Number": "82776",
+        "Contractor Name": "Tri Pointe Homes Holdings, Inc.",
+        "Total Construction Cost": "157025",
+        "Scope of Work": "New construction - single family home, two stories with an attached front loading two car garage. Rear of home will have a covered porch. Home will have 5 bedrooms and 3 baths. Exterior will be com",
+        "Contractor Bond Account Name": "TRI POINTE HOME HOLDINGS INC",
+        "By Selecting Yes, You are certifying that this information is correct": "Yes"
+      }
+    ]
+  },
+  "parcelInformation": {
+    "Parcel Number": "19518680",
+    "Block": "--",
+    "Lot": "--Subdivision:--"
+  },
+  "inspection": {
+    "summary": {
+      "totalCompleted": 7,
+      "statusBreakdown": "Cancelled - 1; Failed - 1; Passed - 5"
+    },
+    "inspections": [
+      {
+        "id": "105994",
+        "status": "Passed",
+        "type": "MS - Mono Slab",
+        "inspector": "Paul Phipps",
+        "date": "06/20/2025 at 10:22 AM",
+        "detailsUrl": "/MECKLENBURG/Inspection/InspectionDetails.aspx?agencyCode=MECKLENBURG&RecordAltID=RES-NEW-25-000308&RecordID1=REC25&RecordID2=00000&RecordID3=00QV6&Module=Building&PublicUserID=PUBLICUSER0&ScheduledType=Unknown&Action=ViewDetails&ID=105994&IsFromWizardPage=False&RequestDayOption=0&ContactChangeOption=Unknown&isPopup=Y&Status=Unknown&NavigationBeginPage=ViewDetails&TimeOption=Unknow"
+      },
+      {
+        "id": "117481",
+        "status": "Passed",
+        "type": "SH - Sheathing",
+        "inspector": "Paul Phipps",
+        "date": "07/11/2025 at 04:54 PM",
+        "detailsUrl": "/MECKLENBURG/Inspection/InspectionDetails.aspx?agencyCode=MECKLENBURG&RecordAltID=RES-NEW-25-000308&RecordID1=REC25&RecordID2=00000&RecordID3=00QV6&Module=Building&PublicUserID=PUBLICUSER0&ScheduledType=Unknown&Action=ViewDetails&ID=117481&IsFromWizardPage=False&RequestDayOption=0&ContactChangeOption=Unknown&isPopup=Y&Status=Unknown&NavigationBeginPage=ViewDetails&TimeOption=Unknow"
+      },
+      {
+        "id": "132245",
+        "status": "Failed",
+        "type": "FR - Framing",
+        "inspector": "Dustin Nichols",
+        "date": "08/01/2025 at 09:13 AM",
+        "detailsUrl": "/MECKLENBURG/Inspection/InspectionDetails.aspx?agencyCode=MECKLENBURG&RecordAltID=RES-NEW-25-000308&RecordID1=REC25&RecordID2=00000&RecordID3=00QV6&Module=Building&PublicUserID=PUBLICUSER0&ScheduledType=Unknown&Action=ViewDetails&ID=132245&IsFromWizardPage=False&RequestDayOption=0&ContactChangeOption=Unknown&isPopup=Y&Status=Unknown&NavigationBeginPage=ViewDetails&TimeOption=Unknow"
+      },
+      {
+        "id": "136128",
+        "status": "Cancelled",
+        "type": "FR - Framing",
+        "inspector": "",
+        "date": "",
+        "detailsUrl": "/MECKLENBURG/Inspection/InspectionDetails.aspx?agencyCode=MECKLENBURG&RecordAltID=RES-NEW-25-000308&RecordID1=REC25&RecordID2=00000&RecordID3=00QV6&Module=Building&PublicUserID=PUBLICUSER0&ScheduledType=Unknown&Action=ViewDetails&ID=136128&IsFromWizardPage=False&RequestDayOption=0&ContactChangeOption=Unknown&isPopup=Y&Status=Unknown&NavigationBeginPage=ViewDetails&TimeOption=Unknow"
+      },
+      {
+        "id": "142455",
+        "status": "Passed",
+        "type": "FR - Framing",
+        "inspector": "Dustin Nichols",
+        "date": "08/11/2025 at 02:32 PM",
+        "detailsUrl": "/MECKLENBURG/Inspection/InspectionDetails.aspx?agencyCode=MECKLENBURG&RecordAltID=RES-NEW-25-000308&RecordID1=REC25&RecordID2=00000&RecordID3=00QV6&Module=Building&PublicUserID=PUBLICUSER0&ScheduledType=Unknown&Action=ViewDetails&ID=142455&IsFromWizardPage=False&RequestDayOption=0&ContactChangeOption=Unknown&isPopup=Y&Status=Unknown&NavigationBeginPage=ViewDetails&TimeOption=Unknow"
+      },
+      {
+        "id": "142854",
+        "status": "Passed",
+        "type": "IN - Insulation",
+        "inspector": "Dustin Nichols",
+        "date": "08/11/2025 at 02:32 PM",
+        "detailsUrl": "/MECKLENBURG/Inspection/InspectionDetails.aspx?agencyCode=MECKLENBURG&RecordAltID=RES-NEW-25-000308&RecordID1=REC25&RecordID2=00000&RecordID3=00QV6&Module=Building&PublicUserID=PUBLICUSER0&ScheduledType=Unknown&Action=ViewDetails&ID=142854&IsFromWizardPage=False&RequestDayOption=0&ContactChangeOption=Unknown&isPopup=Y&Status=Unknown&NavigationBeginPage=ViewDetails&TimeOption=Unknow"
+      },
+      {
+        "id": "221282",
+        "status": "Passed",
+        "type": "FI - Final Inspection",
+        "inspector": "Dustin Nichols",
+        "date": "10/22/2025 at 09:01 AM",
+        "detailsUrl": "/MECKLENBURG/Inspection/InspectionDetails.aspx?agencyCode=MECKLENBURG&RecordAltID=RES-NEW-25-000308&RecordID1=REC25&RecordID2=00000&RecordID3=00QV6&Module=Building&PublicUserID=PUBLICUSER0&ScheduledType=Unknown&Action=ViewDetails&ID=221282&IsFromWizardPage=False&RequestDayOption=0&ContactChangeOption=Unknown&isPopup=Y&Status=Unknown&NavigationBeginPage=ViewDetails&TimeOption=Unknow"
+      }
+    ]
+  }
+}

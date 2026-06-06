@@ -1,0 +1,153 @@
+{
+  "recordInfo": {
+    "recordId": "RES-NEW-25-000309",
+    "recordType": "Residential New Construction Permit",
+    "recordStatus": "Closed - Complete",
+    "expirationDate": "11/06/2026"
+  },
+  "workLocation": "6721 BARCELONA WY | MECKLENBURG NC 28214 * |",
+  "applicant": {
+    "name": "Cynthia Blanding",
+    "businessName": "MAJ Permits Inc.",
+    "address": "8025 Arrowridge Blvd",
+    "region": "Charlotte, NC, 28273 CHARLOTTE, NC, 28273 560",
+    "country": "United States",
+    "phone": "7046214664",
+    "email": "submit@majpermits.com"
+  },
+  "licensedProfessionals": [
+    "D.R. Horton, Inc., T/A | D.R. HORTON, INC., T/A | 8025 Arrowridge Blvd. | Charlotte, NC, 28273 | Building Contractor 29676 |"
+  ],
+  "projectDescription": "SFR Sonoma Hills Lot 10 | SFR Sonoma Hills Lot 10 | sfr",
+  "owner": "CHARLOTTE NC 28273-5604",
+  "relatedContacts": [
+    "Property Owner information Cynthia DR HORTON INC | 6721 BARCELONA WY UNINC NC | CHARLOTTE, NC, 28273 560E-mail:submit@majpermits.com Receive automatic email updates?: No"
+  ],
+  "applicationInformation": {},
+  "applicationInformationTables": {
+    "CONTRACTOR INFORMATION": [
+      {
+        "Trade License Type": "Mechanical Contractor",
+        "License Number": "23840",
+        "Contractor Name": "Christopher Steve Helms",
+        "Total Construction Cost": "3000",
+        "Scope of Work": "sfr",
+        "Contractor Bond Account Name": "HELMS HEATING & AIR CONDI INC",
+        "By Selecting Yes, You are certifying that this information is correct": "Yes"
+      },
+      {
+        "Trade License Type": "Electrical Contractor",
+        "License Number": "28321",
+        "Contractor Name": "Brilin Electric LLC",
+        "Total Construction Cost": "3000",
+        "Scope of Work": "sfr",
+        "Contractor Bond Account Name": "BRILIN ELECTRIC INC",
+        "By Selecting Yes, You are certifying that this information is correct": "Yes"
+      },
+      {
+        "Trade License Type": "Building Contractor",
+        "License Number": "29676",
+        "Contractor Name": "D.R. Horton, Inc., T/A",
+        "Total Construction Cost": "120000",
+        "Scope of Work": "sfr",
+        "Contractor Bond Account Name": "D R HORTON INC",
+        "By Selecting Yes, You are certifying that this information is correct": "Yes"
+      },
+      {
+        "Trade License Type": "Plumbing Contractor",
+        "License Number": "35475",
+        "Contractor Name": "Andrew Scott Stancil",
+        "Total Construction Cost": "3000",
+        "Scope of Work": "sfr",
+        "Contractor Bond Account Name": "QUAN BROTHERS PLUMBING INC",
+        "By Selecting Yes, You are certifying that this information is correct": "Yes"
+      },
+      {
+        "Trade License Type": "Mechanical Contractor",
+        "License Number": "36569",
+        "Contractor Name": "Charles Edward Scott Jr.",
+        "Total Construction Cost": "3000",
+        "Scope of Work": "sfr",
+        "Contractor Bond Account Name": "Hearth Technologies",
+        "By Selecting Yes, You are certifying that this information is correct": "Yes"
+      }
+    ]
+  },
+  "parcelInformation": {
+    "Parcel Number": "11308521",
+    "Block": "--",
+    "Lot": "--Subdivision:--"
+  },
+  "inspection": {
+    "summary": {
+      "totalCompleted": 8,
+      "statusBreakdown": "Failed - 3; Passed - 5"
+    },
+    "inspections": [
+      {
+        "id": "128665",
+        "status": "Failed",
+        "type": "MS - Mono Slab",
+        "inspector": "TB",
+        "date": "07/24/2025 at 08:07 AM",
+        "detailsUrl": "/MECKLENBURG/Inspection/InspectionDetails.aspx?agencyCode=MECKLENBURG&RecordAltID=RES-NEW-25-000309&RecordID1=REC25&RecordID2=00000&RecordID3=00R0I&Module=Building&PublicUserID=PUBLICUSER0&ScheduledType=Unknown&Action=ViewDetails&ID=128665&IsFromWizardPage=False&RequestDayOption=0&ContactChangeOption=Unknown&isPopup=Y&Status=Unknown&NavigationBeginPage=ViewDetails&TimeOption=Unknow"
+      },
+      {
+        "id": "150582",
+        "status": "Passed",
+        "type": "MS - Mono Slab",
+        "inspector": "Mark Hogan",
+        "date": "08/13/2025 at 09:14 AM",
+        "detailsUrl": "/MECKLENBURG/Inspection/InspectionDetails.aspx?agencyCode=MECKLENBURG&RecordAltID=RES-NEW-25-000309&RecordID1=REC25&RecordID2=00000&RecordID3=00R0I&Module=Building&PublicUserID=PUBLICUSER0&ScheduledType=Unknown&Action=ViewDetails&ID=150582&IsFromWizardPage=False&RequestDayOption=0&ContactChangeOption=Unknown&isPopup=Y&Status=Unknown&NavigationBeginPage=ViewDetails&TimeOption=Unknow"
+      },
+      {
+        "id": "150581",
+        "status": "Failed",
+        "type": "SH - Sheathing",
+        "inspector": "Mark Hogan",
+        "date": "08/13/2025 at 09:22 AM",
+        "detailsUrl": "/MECKLENBURG/Inspection/InspectionDetails.aspx?agencyCode=MECKLENBURG&RecordAltID=RES-NEW-25-000309&RecordID1=REC25&RecordID2=00000&RecordID3=00R0I&Module=Building&PublicUserID=PUBLICUSER0&ScheduledType=Unknown&Action=ViewDetails&ID=150581&IsFromWizardPage=False&RequestDayOption=0&ContactChangeOption=Unknown&isPopup=Y&Status=Unknown&NavigationBeginPage=ViewDetails&TimeOption=Unknow"
+      },
+      {
+        "id": "151435",
+        "status": "Failed",
+        "type": "SH - Sheathing",
+        "inspector": "Mark Hogan",
+        "date": "08/14/2025 at 02:36 PM",
+        "detailsUrl": "/MECKLENBURG/Inspection/InspectionDetails.aspx?agencyCode=MECKLENBURG&RecordAltID=RES-NEW-25-000309&RecordID1=REC25&RecordID2=00000&RecordID3=00R0I&Module=Building&PublicUserID=PUBLICUSER0&ScheduledType=Unknown&Action=ViewDetails&ID=151435&IsFromWizardPage=False&RequestDayOption=0&ContactChangeOption=Unknown&isPopup=Y&Status=Unknown&NavigationBeginPage=ViewDetails&TimeOption=Unknow"
+      },
+      {
+        "id": "153670",
+        "status": "Passed",
+        "type": "SH - Sheathing",
+        "inspector": "Mark Hogan",
+        "date": "08/18/2025 at 01:15 PM",
+        "detailsUrl": "/MECKLENBURG/Inspection/InspectionDetails.aspx?agencyCode=MECKLENBURG&RecordAltID=RES-NEW-25-000309&RecordID1=REC25&RecordID2=00000&RecordID3=00R0I&Module=Building&PublicUserID=PUBLICUSER0&ScheduledType=Unknown&Action=ViewDetails&ID=153670&IsFromWizardPage=False&RequestDayOption=0&ContactChangeOption=Unknown&isPopup=Y&Status=Unknown&NavigationBeginPage=ViewDetails&TimeOption=Unknow"
+      },
+      {
+        "id": "167646",
+        "status": "Passed",
+        "type": "FR - Framing",
+        "inspector": "Mark Hogan",
+        "date": "09/03/2025 at 01:39 PM",
+        "detailsUrl": "/MECKLENBURG/Inspection/InspectionDetails.aspx?agencyCode=MECKLENBURG&RecordAltID=RES-NEW-25-000309&RecordID1=REC25&RecordID2=00000&RecordID3=00R0I&Module=Building&PublicUserID=PUBLICUSER0&ScheduledType=Unknown&Action=ViewDetails&ID=167646&IsFromWizardPage=False&RequestDayOption=0&ContactChangeOption=Unknown&isPopup=Y&Status=Unknown&NavigationBeginPage=ViewDetails&TimeOption=Unknow"
+      },
+      {
+        "id": "174835",
+        "status": "Passed",
+        "type": "IN - Insulation",
+        "inspector": "Mark Hogan",
+        "date": "09/10/2025 at 10:10 AM",
+        "detailsUrl": "/MECKLENBURG/Inspection/InspectionDetails.aspx?agencyCode=MECKLENBURG&RecordAltID=RES-NEW-25-000309&RecordID1=REC25&RecordID2=00000&RecordID3=00R0I&Module=Building&PublicUserID=PUBLICUSER0&ScheduledType=Unknown&Action=ViewDetails&ID=174835&IsFromWizardPage=False&RequestDayOption=0&ContactChangeOption=Unknown&isPopup=Y&Status=Unknown&NavigationBeginPage=ViewDetails&TimeOption=Unknow"
+      },
+      {
+        "id": "238407",
+        "status": "Passed",
+        "type": "FI - Final Inspection",
+        "inspector": "Mark Hogan",
+        "date": "11/06/2025 at 01:43 PM",
+        "detailsUrl": "/MECKLENBURG/Inspection/InspectionDetails.aspx?agencyCode=MECKLENBURG&RecordAltID=RES-NEW-25-000309&RecordID1=REC25&RecordID2=00000&RecordID3=00R0I&Module=Building&PublicUserID=PUBLICUSER0&ScheduledType=Unknown&Action=ViewDetails&ID=238407&IsFromWizardPage=False&RequestDayOption=0&ContactChangeOption=Unknown&isPopup=Y&Status=Unknown&NavigationBeginPage=ViewDetails&TimeOption=Unknow"
+      }
+    ]
+  }
+}

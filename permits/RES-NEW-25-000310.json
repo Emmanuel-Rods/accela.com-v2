@@ -1,0 +1,71 @@
+{
+  "recordInfo": {
+    "recordId": "RES-NEW-25-000310",
+    "recordType": "Residential New Construction Permit",
+    "recordStatus": "Closed - Withdrawn",
+    "expirationDate": "06/06/2025"
+  },
+  "workLocation": "20013 FAITHWOOD CT | CHARLOTTE NC 28213 * |",
+  "applicant": {
+    "name": "Patty Cook",
+    "businessName": "Lennar Carolinas LLC",
+    "address": "11605 N Community House Road Suite 400",
+    "region": "Charlotte, NC, 28277 Charlotte, NC, 28277",
+    "country": "United States",
+    "phone": "",
+    "email": "patty.cook@lennar.com"
+  },
+  "licensedProfessionals": [
+    "Patty Cook patty.cook@lennar.com | Lennar Carolinas LLC | 11605 N Community House Road Suite 400 | Charlotte, NC, 28277 | Mobile Phone:7045160563Building Contractor 58118 |",
+    "7045160563"
+  ],
+  "projectDescription": "RRT50 - 20013 Faithwood Court | Duplex/2 Unit Building | Residential Single Family Attached Dwelling",
+  "owner": "WAXHAW NC 28173",
+  "relatedContacts": [
+    "Property Owner information Patty Cook | Lennar Carolinas LLC | 11605 N Community House Road Suite 400 | Charlotte, NC, 28277 | United StatesWork Phone:7045160563E-mail:patty.cook@lennar.com Receive automatic email updates?: YesRequestor Association: Owner/Developer"
+  ],
+  "applicationInformation": {},
+  "applicationInformationTables": {
+    "CONTRACTOR INFORMATION": [
+      {
+        "Trade License Type": "Electrical Contractor",
+        "License Number": "27096",
+        "Contractor Name": "IES Residential, Inc.",
+        "Total Construction Cost": "6500",
+        "Scope of Work": "House Electrical",
+        "Contractor Bond Account Name": "IES Residential Inc",
+        "By Selecting Yes, You are certifying that this information is correct": "Yes"
+      },
+      {
+        "Trade License Type": "Mechanical Contractor",
+        "License Number": "29335",
+        "Contractor Name": "Robert Kelly Painter",
+        "Total Construction Cost": "11500",
+        "Scope of Work": "House Mechanical",
+        "Contractor Bond Account Name": "PAINTER ROBERT KELLY",
+        "By Selecting Yes, You are certifying that this information is correct": "Yes"
+      },
+      {
+        "Trade License Type": "Building Contractor",
+        "License Number": "58118",
+        "Contractor Name": "Patty Cook",
+        "Total Construction Cost": "99500",
+        "Scope of Work": "House Building",
+        "Contractor Bond Account Name": "LENNAR CAROLINA LLC",
+        "By Selecting Yes, You are certifying that this information is correct": "Yes"
+      }
+    ]
+  },
+  "parcelInformation": {
+    "Parcel Number": "05121350",
+    "Block": "--",
+    "Lot": "--Subdivision:--"
+  },
+  "inspection": {
+    "summary": {
+      "totalCompleted": 0,
+      "statusBreakdown": ""
+    },
+    "inspections": []
+  }
+}

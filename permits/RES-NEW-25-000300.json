@@ -1,0 +1,144 @@
+{
+  "recordInfo": {
+    "recordId": "RES-NEW-25-000300",
+    "recordType": "Residential New Construction Permit",
+    "recordStatus": "Closed - Complete",
+    "expirationDate": "12/03/2026"
+  },
+  "workLocation": "12005 MARINER DR | MINT HILL NC 28227 * |",
+  "applicant": {
+    "name": "Cassie Melton",
+    "businessName": "National Permit Expediters, Inc.",
+    "address": "6414 Wilkinson Blvd, PMB 125",
+    "region": "Belmont, NC, 28012 HOUSTON, TX, 77055",
+    "country": "United States",
+    "phone": "",
+    "email": "cassie@nationalexpediter.com"
+  },
+  "licensedProfessionals": [
+    "Weekley Homes, LLC, T/A | 7400 Carmel Executive Park Drive, Suite 225 | Charlotte, NC, 28226 | Building Contractor 40179 |"
+  ],
+  "projectDescription": "147 WP | 147 Whitley Preserve | New single-family dwelling.",
+  "owner": "HOUSTON TX 77055",
+  "relatedContacts": [
+    "Property Owner information Kristina Gurganus CND MCEWEN LLC | 1111 N Post Oak Dr | HOUSTON, TX, 77055E-mail:kgurganus@dwhomes.com Receive automatic email updates?: No"
+  ],
+  "applicationInformation": {},
+  "applicationInformationTables": {
+    "CONTRACTOR INFORMATION": [
+      {
+        "Trade License Type": "Plumbing Contractor",
+        "License Number": "2138",
+        "Contractor Name": "Matthew Robert Price",
+        "Total Construction Cost": "22815",
+        "Scope of Work": "Plumbing for new single-family dwelling.",
+        "Contractor Bond Account Name": "Price Brothers Inc",
+        "By Selecting Yes, You are certifying that this information is correct": "Yes"
+      },
+      {
+        "Trade License Type": "Mechanical Contractor",
+        "License Number": "29036",
+        "Contractor Name": "Michael Porter McAndrew",
+        "Total Construction Cost": "15210",
+        "Scope of Work": "Mechanical for new single-family dwelling.",
+        "Contractor Bond Account Name": "LEWIS HEATING & AIR INC ANDY",
+        "By Selecting Yes, You are certifying that this information is correct": "Yes"
+      },
+      {
+        "Trade License Type": "Electrical Contractor",
+        "License Number": "28638",
+        "Contractor Name": "Charlotte Lanehart Electric Co. Inc.",
+        "Total Construction Cost": "11907",
+        "Scope of Work": "Electrical for new single-family dwelling. Scope to include low voltage work.",
+        "Contractor Bond Account Name": "Charlotte Lanehart Elec Contr",
+        "By Selecting Yes, You are certifying that this information is correct": "Yes"
+      },
+      {
+        "Trade License Type": "Building Contractor",
+        "License Number": "40179",
+        "Contractor Name": "Weekley Homes, LLC, T/A",
+        "Total Construction Cost": "330317",
+        "Scope of Work": "New single-family dwelling.",
+        "Contractor Bond Account Name": "WEEKLEY HOMES INC",
+        "By Selecting Yes, You are certifying that this information is correct": "Yes"
+      }
+    ]
+  },
+  "parcelInformation": {
+    "Parcel Number": "19701401",
+    "Block": "--",
+    "Lot": "--Subdivision:--"
+  },
+  "inspection": {
+    "summary": {
+      "totalCompleted": 8,
+      "statusBreakdown": "Cancelled - 2; Failed - 1; Passed - 5"
+    },
+    "inspections": [
+      {
+        "id": "149732",
+        "status": "Passed",
+        "type": "RDP - MS - Mono Slab",
+        "inspector": "Matthew Tompkins",
+        "date": "08/12/2025 at 11:49 AM",
+        "detailsUrl": "/MECKLENBURG/Inspection/InspectionDetails.aspx?agencyCode=MECKLENBURG&RecordAltID=RES-NEW-25-000300&RecordID1=REC25&RecordID2=00000&RecordID3=00QJW&Module=Building&PublicUserID=PUBLICUSER0&ScheduledType=Unknown&Action=ViewDetails&ID=149732&IsFromWizardPage=False&RequestDayOption=0&ContactChangeOption=Unknown&isPopup=Y&Status=Unknown&NavigationBeginPage=ViewDetails&TimeOption=Unknow"
+      },
+      {
+        "id": "156809",
+        "status": "Failed",
+        "type": "SH - Sheathing",
+        "inspector": "Matthew Tompkins",
+        "date": "08/20/2025 at 11:27 AM",
+        "detailsUrl": "/MECKLENBURG/Inspection/InspectionDetails.aspx?agencyCode=MECKLENBURG&RecordAltID=RES-NEW-25-000300&RecordID1=REC25&RecordID2=00000&RecordID3=00QJW&Module=Building&PublicUserID=PUBLICUSER0&ScheduledType=Unknown&Action=ViewDetails&ID=156809&IsFromWizardPage=False&RequestDayOption=0&ContactChangeOption=Unknown&isPopup=Y&Status=Unknown&NavigationBeginPage=ViewDetails&TimeOption=Unknow"
+      },
+      {
+        "id": "158924",
+        "status": "Passed",
+        "type": "SH - Sheathing",
+        "inspector": "Matthew Tompkins",
+        "date": "08/22/2025 at 08:22 AM",
+        "detailsUrl": "/MECKLENBURG/Inspection/InspectionDetails.aspx?agencyCode=MECKLENBURG&RecordAltID=RES-NEW-25-000300&RecordID1=REC25&RecordID2=00000&RecordID3=00QJW&Module=Building&PublicUserID=PUBLICUSER0&ScheduledType=Unknown&Action=ViewDetails&ID=158924&IsFromWizardPage=False&RequestDayOption=0&ContactChangeOption=Unknown&isPopup=Y&Status=Unknown&NavigationBeginPage=ViewDetails&TimeOption=Unknow"
+      },
+      {
+        "id": "165192",
+        "status": "Cancelled",
+        "type": "FR - Framing",
+        "inspector": "",
+        "date": "",
+        "detailsUrl": "/MECKLENBURG/Inspection/InspectionDetails.aspx?agencyCode=MECKLENBURG&RecordAltID=RES-NEW-25-000300&RecordID1=REC25&RecordID2=00000&RecordID3=00QJW&Module=Building&PublicUserID=PUBLICUSER0&ScheduledType=Unknown&Action=ViewDetails&ID=165192&IsFromWizardPage=False&RequestDayOption=0&ContactChangeOption=Unknown&isPopup=Y&Status=Unknown&NavigationBeginPage=ViewDetails&TimeOption=Unknow"
+      },
+      {
+        "id": "167408",
+        "status": "Passed",
+        "type": "FR - Framing",
+        "inspector": "Matthew Tompkins",
+        "date": "09/03/2025 at 11:44 AM",
+        "detailsUrl": "/MECKLENBURG/Inspection/InspectionDetails.aspx?agencyCode=MECKLENBURG&RecordAltID=RES-NEW-25-000300&RecordID1=REC25&RecordID2=00000&RecordID3=00QJW&Module=Building&PublicUserID=PUBLICUSER0&ScheduledType=Unknown&Action=ViewDetails&ID=167408&IsFromWizardPage=False&RequestDayOption=0&ContactChangeOption=Unknown&isPopup=Y&Status=Unknown&NavigationBeginPage=ViewDetails&TimeOption=Unknow"
+      },
+      {
+        "id": "174325",
+        "status": "Cancelled",
+        "type": "FR - Framing",
+        "inspector": "",
+        "date": "",
+        "detailsUrl": "/MECKLENBURG/Inspection/InspectionDetails.aspx?agencyCode=MECKLENBURG&RecordAltID=RES-NEW-25-000300&RecordID1=REC25&RecordID2=00000&RecordID3=00QJW&Module=Building&PublicUserID=PUBLICUSER0&ScheduledType=Unknown&Action=ViewDetails&ID=174325&IsFromWizardPage=False&RequestDayOption=0&ContactChangeOption=Unknown&isPopup=Y&Status=Unknown&NavigationBeginPage=ViewDetails&TimeOption=Unknow"
+      },
+      {
+        "id": "174603",
+        "status": "Passed",
+        "type": "IN - Insulation",
+        "inspector": "Matthew Tompkins",
+        "date": "09/08/2025 at 09:35 AM",
+        "detailsUrl": "/MECKLENBURG/Inspection/InspectionDetails.aspx?agencyCode=MECKLENBURG&RecordAltID=RES-NEW-25-000300&RecordID1=REC25&RecordID2=00000&RecordID3=00QJW&Module=Building&PublicUserID=PUBLICUSER0&ScheduledType=Unknown&Action=ViewDetails&ID=174603&IsFromWizardPage=False&RequestDayOption=0&ContactChangeOption=Unknown&isPopup=Y&Status=Unknown&NavigationBeginPage=ViewDetails&TimeOption=Unknow"
+      },
+      {
+        "id": "267009",
+        "status": "Passed",
+        "type": "FI - Final Inspection",
+        "inspector": "Matthew Tompkins",
+        "date": "12/03/2025 at 12:35 PM",
+        "detailsUrl": "/MECKLENBURG/Inspection/InspectionDetails.aspx?agencyCode=MECKLENBURG&RecordAltID=RES-NEW-25-000300&RecordID1=REC25&RecordID2=00000&RecordID3=00QJW&Module=Building&PublicUserID=PUBLICUSER0&ScheduledType=Unknown&Action=ViewDetails&ID=267009&IsFromWizardPage=False&RequestDayOption=0&ContactChangeOption=Unknown&isPopup=Y&Status=Unknown&NavigationBeginPage=ViewDetails&TimeOption=Unknow"
+      }
+    ]
+  }
+}

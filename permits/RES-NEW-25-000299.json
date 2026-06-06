@@ -1,0 +1,158 @@
+{
+  "recordInfo": {
+    "recordId": "RES-NEW-25-000299",
+    "recordType": "Residential New Construction Permit",
+    "recordStatus": "Closed - Complete",
+    "expirationDate": "12/04/2026"
+  },
+  "workLocation": "5024 MINT HARBOR WY | CHARLOTTE NC 28269 * |",
+  "applicant": {
+    "name": "Katie Keely",
+    "businessName": "Toll Brothers",
+    "address": "9130 Kings Parade Blvd",
+    "region": "Charlotte, NC, 28273 FORT WASHINGTON, PA, 19034 Charlotte, NC, 28273 Charlotte, NC, 28273 Charlotte, NC, 28273 Charlotte, NC, 28273 Charlotte, NC, 28273",
+    "country": "United States",
+    "phone": "",
+    "email": "kkeely@tollbrothers.com"
+  },
+  "licensedProfessionals": [
+    "Toll Bros. Of North Carolina, Inc. kkeely@tollbrothers.com | TOLL BROTHERS | 9130 Kings Parade Blvd | Charlotte, NC, 28273 | Building Contractor 33917 |"
+  ],
+  "projectDescription": "Griffith Lakes Lot 400 | New Single Family Detached Dwelling",
+  "owner": "FORT WASHINGTON PA 19034-3204",
+  "relatedContacts": [
+    "Property Owner information TOLL SOUTHEAST LP COMPANY INC | Toll Brothers | 1140 Virginia Drive | FORT WASHINGTON, PA, 19034E-mail:kkeely@tollbrothers.com Receive automatic email updates?: No",
+    "Authorized Agent information Chase Roberts | Toll Brothers | 9130 Kings Parade Blvd | Charlotte, NC, 28273 | United StatesE-mail:mroberts@tollbrothers.com",
+    "Authorized Agent information Michael Winter | Toll Brothers | 9130 Kings Parade Blvd | Charlotte, NC, 28273 | United StatesE-mail:mwinter1@tollbrothers.com",
+    "Authorized Agent information Aire Ammann | Toll Brothers | 9130 Kings Parade Blvd | Charlotte, NC, 28273 | United StatesE-mail:aammann@tollbrothers.com",
+    "Authorized Agent information Andrew Crum | Toll Brothers | 9130 Kings Parade Blvd | Charlotte, NC, 28273 | United StatesE-mail:acrum@tollbrothers.com",
+    "Authorized Agent information Justin Marchon | Toll Brothers | 9130 Kings Parade Blvd | Charlotte, NC, 28273 | United StatesE-mail:jmarchon@tollbrothers.com"
+  ],
+  "applicationInformation": {},
+  "applicationInformationTables": {
+    "CONTRACTOR INFORMATION": [
+      {
+        "Trade License Type": "Mechanical Contractor",
+        "License Number": "29335",
+        "Contractor Name": "Robert Kelly Painter",
+        "Total Construction Cost": "23000",
+        "Scope of Work": "Rough and Finish",
+        "Contractor Bond Account Name": "PAINTER ROBERT KELLY",
+        "By Selecting Yes, You are certifying that this information is correct": "Yes"
+      },
+      {
+        "Trade License Type": "Plumbing Contractor",
+        "License Number": "2138",
+        "Contractor Name": "Matthew Robert Price",
+        "Total Construction Cost": "23000",
+        "Scope of Work": "R",
+        "Contractor Bond Account Name": "Price Brothers Inc",
+        "By Selecting Yes, You are certifying that this information is correct": "Yes"
+      },
+      {
+        "Trade License Type": "Electrical Contractor",
+        "License Number": "23137",
+        "Contractor Name": "Audio Video Specialties LLC",
+        "Total Construction Cost": "6000",
+        "Scope of Work": "Rough and Finish",
+        "Contractor Bond Account Name": "MARKS R LLC",
+        "By Selecting Yes, You are certifying that this information is correct": "Yes"
+      },
+      {
+        "Trade License Type": "Electrical Contractor",
+        "License Number": "21038",
+        "Contractor Name": "Osborne Brothers Electric Inc.",
+        "Total Construction Cost": "23000",
+        "Scope of Work": "Rough and Finish",
+        "Contractor Bond Account Name": "Osborne Brothers Electric Inc",
+        "By Selecting Yes, You are certifying that this information is correct": "Yes"
+      },
+      {
+        "Trade License Type": "Building Contractor",
+        "License Number": "33917",
+        "Contractor Name": "Toll Bros. Of North Carolina, Inc.",
+        "Total Construction Cost": "62000",
+        "Scope of Work": "New Single Family Detached Dwelling",
+        "Contractor Bond Account Name": "TOLL BROTHERS OF NC INC",
+        "By Selecting Yes, You are certifying that this information is correct": "Yes"
+      }
+    ]
+  },
+  "parcelInformation": {
+    "Parcel Number": "04308108",
+    "Block": "--",
+    "Lot": "--Subdivision:--"
+  },
+  "inspection": {
+    "summary": {
+      "totalCompleted": 8,
+      "statusBreakdown": "Failed - 2; Passed - 6"
+    },
+    "inspections": [
+      {
+        "id": "160686",
+        "status": "Passed",
+        "type": "SH - Sheathing",
+        "inspector": "Louis Longbucco",
+        "date": "08/25/2025 at 10:16 AM",
+        "detailsUrl": "/MECKLENBURG/Inspection/InspectionDetails.aspx?agencyCode=MECKLENBURG&RecordAltID=RES-NEW-25-000299&RecordID1=REC25&RecordID2=00000&RecordID3=00QJR&Module=Building&PublicUserID=PUBLICUSER0&ScheduledType=Unknown&Action=ViewDetails&ID=160686&IsFromWizardPage=False&RequestDayOption=0&ContactChangeOption=Unknown&isPopup=Y&Status=Unknown&NavigationBeginPage=ViewDetails&TimeOption=Unknow"
+      },
+      {
+        "id": "176668",
+        "status": "Passed",
+        "type": "RDP - MS - Mono Slab",
+        "inspector": "Louis Longbucco",
+        "date": "09/10/2025 at 10:03 AM",
+        "detailsUrl": "/MECKLENBURG/Inspection/InspectionDetails.aspx?agencyCode=MECKLENBURG&RecordAltID=RES-NEW-25-000299&RecordID1=REC25&RecordID2=00000&RecordID3=00QJR&Module=Building&PublicUserID=PUBLICUSER0&ScheduledType=Unknown&Action=ViewDetails&ID=176668&IsFromWizardPage=False&RequestDayOption=0&ContactChangeOption=Unknown&isPopup=Y&Status=Unknown&NavigationBeginPage=ViewDetails&TimeOption=Unknow"
+      },
+      {
+        "id": "176669",
+        "status": "Failed",
+        "type": "FR - Framing",
+        "inspector": "Louis Longbucco",
+        "date": "09/11/2025 at 12:53 PM",
+        "detailsUrl": "/MECKLENBURG/Inspection/InspectionDetails.aspx?agencyCode=MECKLENBURG&RecordAltID=RES-NEW-25-000299&RecordID1=REC25&RecordID2=00000&RecordID3=00QJR&Module=Building&PublicUserID=PUBLICUSER0&ScheduledType=Unknown&Action=ViewDetails&ID=176669&IsFromWizardPage=False&RequestDayOption=0&ContactChangeOption=Unknown&isPopup=Y&Status=Unknown&NavigationBeginPage=ViewDetails&TimeOption=Unknow"
+      },
+      {
+        "id": "180226",
+        "status": "Failed",
+        "type": "FR - Framing",
+        "inspector": "Louis Longbucco",
+        "date": "09/15/2025 at 09:45 AM",
+        "detailsUrl": "/MECKLENBURG/Inspection/InspectionDetails.aspx?agencyCode=MECKLENBURG&RecordAltID=RES-NEW-25-000299&RecordID1=REC25&RecordID2=00000&RecordID3=00QJR&Module=Building&PublicUserID=PUBLICUSER0&ScheduledType=Unknown&Action=ViewDetails&ID=180226&IsFromWizardPage=False&RequestDayOption=0&ContactChangeOption=Unknown&isPopup=Y&Status=Unknown&NavigationBeginPage=ViewDetails&TimeOption=Unknow"
+      },
+      {
+        "id": "184142",
+        "status": "Passed",
+        "type": "SH - Sheathing",
+        "inspector": "Louis Longbucco",
+        "date": "09/17/2025 at 12:17 PM",
+        "detailsUrl": "/MECKLENBURG/Inspection/InspectionDetails.aspx?agencyCode=MECKLENBURG&RecordAltID=RES-NEW-25-000299&RecordID1=REC25&RecordID2=00000&RecordID3=00QJR&Module=Building&PublicUserID=PUBLICUSER0&ScheduledType=Unknown&Action=ViewDetails&ID=184142&IsFromWizardPage=False&RequestDayOption=0&ContactChangeOption=Unknown&isPopup=Y&Status=Unknown&NavigationBeginPage=ViewDetails&TimeOption=Unknow"
+      },
+      {
+        "id": "185618",
+        "status": "Passed",
+        "type": "FR - Framing",
+        "inspector": "Louis Longbucco",
+        "date": "09/23/2025 at 10:24 AM",
+        "detailsUrl": "/MECKLENBURG/Inspection/InspectionDetails.aspx?agencyCode=MECKLENBURG&RecordAltID=RES-NEW-25-000299&RecordID1=REC25&RecordID2=00000&RecordID3=00QJR&Module=Building&PublicUserID=PUBLICUSER0&ScheduledType=Unknown&Action=ViewDetails&ID=185618&IsFromWizardPage=False&RequestDayOption=0&ContactChangeOption=Unknown&isPopup=Y&Status=Unknown&NavigationBeginPage=ViewDetails&TimeOption=Unknow"
+      },
+      {
+        "id": "185619",
+        "status": "Passed",
+        "type": "IN - Insulation",
+        "inspector": "Louis Longbucco",
+        "date": "09/23/2025 at 01:53 PM",
+        "detailsUrl": "/MECKLENBURG/Inspection/InspectionDetails.aspx?agencyCode=MECKLENBURG&RecordAltID=RES-NEW-25-000299&RecordID1=REC25&RecordID2=00000&RecordID3=00QJR&Module=Building&PublicUserID=PUBLICUSER0&ScheduledType=Unknown&Action=ViewDetails&ID=185619&IsFromWizardPage=False&RequestDayOption=0&ContactChangeOption=Unknown&isPopup=Y&Status=Unknown&NavigationBeginPage=ViewDetails&TimeOption=Unknow"
+      },
+      {
+        "id": "266994",
+        "status": "Passed",
+        "type": "FI - Final Inspection",
+        "inspector": "Louis Longbucco",
+        "date": "12/04/2025 at 10:23 AM",
+        "detailsUrl": "/MECKLENBURG/Inspection/InspectionDetails.aspx?agencyCode=MECKLENBURG&RecordAltID=RES-NEW-25-000299&RecordID1=REC25&RecordID2=00000&RecordID3=00QJR&Module=Building&PublicUserID=PUBLICUSER0&ScheduledType=Unknown&Action=ViewDetails&ID=266994&IsFromWizardPage=False&RequestDayOption=0&ContactChangeOption=Unknown&isPopup=Y&Status=Unknown&NavigationBeginPage=ViewDetails&TimeOption=Unknow"
+      }
+    ]
+  }
+}

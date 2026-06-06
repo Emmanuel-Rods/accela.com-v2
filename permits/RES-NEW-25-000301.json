@@ -1,0 +1,145 @@
+{
+  "recordInfo": {
+    "recordId": "RES-NEW-25-000301",
+    "recordType": "Residential New Construction Permit",
+    "recordStatus": "Closed - Complete",
+    "expirationDate": "12/15/2026"
+  },
+  "workLocation": "119 N GREGG ST | CHARLOTTE NC 28216 * |",
+  "applicant": {
+    "name": "Bobbi Fisher",
+    "businessName": "Bobbi Thomas Builders",
+    "address": "3329 Weddington Rd",
+    "region": "Matthews, NC, 28105 CHARLOTTE, NC, 28210 Matthews, NC, 28105",
+    "country": "United States",
+    "phone": "",
+    "email": "bfisher@bobbithomas.com"
+  },
+  "licensedProfessionals": [
+    "Kyle Haynes Tudor | DAPPER DEVELOPMENT LLC | 1601 Shannonhouse Dr | Charlotte, NC, 28215 | Building Contractor 101081 |"
+  ],
+  "projectDescription": "119 N GREGG ST | Single Family Two Story | New Construction Two Story Single Family Home with 4 bedrooms 3 baths 2 car garage",
+  "owner": "CHARLOTTE NC 28210",
+  "relatedContacts": [
+    "Property Owner information Brendan Gelson | Dapper Development | 119 N GREGG ST CHARLOTTE NC | CHARLOTTE, NC, 28210Mobile Phone:5087425901E-mail:brendan@dapperdevelopmentre.com Receive automatic email updates?: YesRequestor Association: Owner/Developer",
+    "Authorized Agent information Bobbi Fisher | Bobbi Thomas Builders | 3329 Weddington Rd | Matthews, NC, 28105 | United StatesWork Phone:7042266884E-mail:bfisher@bobbithomas.com"
+  ],
+  "applicationInformation": {},
+  "applicationInformationTables": {
+    "CONTRACTOR INFORMATION": [
+      {
+        "Trade License Type": "Mechanical Contractor",
+        "License Number": "28722",
+        "Contractor Name": "Michael Laverne Miller",
+        "Total Construction Cost": "10000",
+        "Scope of Work": "New Construction HVAC",
+        "Contractor Bond Account Name": "J & R HVAC SERVICES LLC",
+        "By Selecting Yes, You are certifying that this information is correct": "Yes"
+      },
+      {
+        "Trade License Type": "Plumbing Contractor",
+        "License Number": "34085",
+        "Contractor Name": "Maico Trujillo",
+        "Total Construction Cost": "8000",
+        "Scope of Work": "New Construction Single Family Plumbing",
+        "Contractor Bond Account Name": "MT PLUMBING SERVICES INC",
+        "By Selecting Yes, You are certifying that this information is correct": "Yes"
+      },
+      {
+        "Trade License Type": "Electrical Contractor",
+        "License Number": "33191",
+        "Contractor Name": "Simpson Superior Electric LLC",
+        "Total Construction Cost": "7000",
+        "Scope of Work": "New Construction Single Family Electrical",
+        "Contractor Bond Account Name": "SIMPSON JOSH",
+        "By Selecting Yes, You are certifying that this information is correct": "Yes"
+      },
+      {
+        "Trade License Type": "Building Contractor",
+        "License Number": "101081",
+        "Contractor Name": "Kyle Haynes Tudor",
+        "Total Construction Cost": "250000",
+        "Scope of Work": "New Construction Single Family Home",
+        "Contractor Bond Account Name": "DAPPER DEVELOPEMENT LLC",
+        "By Selecting Yes, You are certifying that this information is correct": "Yes"
+      }
+    ]
+  },
+  "parcelInformation": {
+    "Parcel Number": "06905320",
+    "Block": "--",
+    "Lot": "--Subdivision:--"
+  },
+  "inspection": {
+    "summary": {
+      "totalCompleted": 7,
+      "statusBreakdown": "Failed - 1; Passed - 6"
+    },
+    "inspections": [
+      {
+        "id": "274042",
+        "status": "TBD at TBD Pending",
+        "type": "FI - Final Inspection",
+        "inspector": "",
+        "date": "",
+        "detailsUrl": ""
+      },
+      {
+        "id": "108041",
+        "status": "Passed",
+        "type": "RDP - FT - Footing",
+        "inspector": "Eric Durand",
+        "date": "06/20/2025 at 01:10 PM",
+        "detailsUrl": "/MECKLENBURG/Inspection/InspectionDetails.aspx?agencyCode=MECKLENBURG&RecordAltID=RES-NEW-25-000301&RecordID1=REC25&RecordID2=00000&RecordID3=00QLQ&Module=Building&PublicUserID=PUBLICUSER0&ScheduledType=Unknown&Action=ViewDetails&ID=108041&IsFromWizardPage=False&RequestDayOption=0&ContactChangeOption=Unknown&isPopup=Y&Status=Unknown&NavigationBeginPage=ViewDetails&TimeOption=Unknow"
+      },
+      {
+        "id": "114690",
+        "status": "Passed",
+        "type": "RDP - FD - Foundation",
+        "inspector": "Eric Durand",
+        "date": "07/03/2025 at 12:11 PM",
+        "detailsUrl": "/MECKLENBURG/Inspection/InspectionDetails.aspx?agencyCode=MECKLENBURG&RecordAltID=RES-NEW-25-000301&RecordID1=REC25&RecordID2=00000&RecordID3=00QLQ&Module=Building&PublicUserID=PUBLICUSER0&ScheduledType=Unknown&Action=ViewDetails&ID=114690&IsFromWizardPage=False&RequestDayOption=0&ContactChangeOption=Unknown&isPopup=Y&Status=Unknown&NavigationBeginPage=ViewDetails&TimeOption=Unknow"
+      },
+      {
+        "id": "132302",
+        "status": "Passed",
+        "type": "RDP - SL - Slab",
+        "inspector": "Eric Durand",
+        "date": "07/28/2025 at 02:50 PM",
+        "detailsUrl": "/MECKLENBURG/Inspection/InspectionDetails.aspx?agencyCode=MECKLENBURG&RecordAltID=RES-NEW-25-000301&RecordID1=REC25&RecordID2=00000&RecordID3=00QLQ&Module=Building&PublicUserID=PUBLICUSER0&ScheduledType=Unknown&Action=ViewDetails&ID=132302&IsFromWizardPage=False&RequestDayOption=0&ContactChangeOption=Unknown&isPopup=Y&Status=Unknown&NavigationBeginPage=ViewDetails&TimeOption=Unknow"
+      },
+      {
+        "id": "148204",
+        "status": "Passed",
+        "type": "FR - Framing",
+        "inspector": "Eric Durand",
+        "date": "08/12/2025 at 09:00 AM",
+        "detailsUrl": "/MECKLENBURG/Inspection/InspectionDetails.aspx?agencyCode=MECKLENBURG&RecordAltID=RES-NEW-25-000301&RecordID1=REC25&RecordID2=00000&RecordID3=00QLQ&Module=Building&PublicUserID=PUBLICUSER0&ScheduledType=Unknown&Action=ViewDetails&ID=148204&IsFromWizardPage=False&RequestDayOption=0&ContactChangeOption=Unknown&isPopup=Y&Status=Unknown&NavigationBeginPage=ViewDetails&TimeOption=Unknow"
+      },
+      {
+        "id": "155838",
+        "status": "Passed",
+        "type": "IN - Insulation",
+        "inspector": "Eric Durand",
+        "date": "08/19/2025 at 09:40 AM",
+        "detailsUrl": "/MECKLENBURG/Inspection/InspectionDetails.aspx?agencyCode=MECKLENBURG&RecordAltID=RES-NEW-25-000301&RecordID1=REC25&RecordID2=00000&RecordID3=00QLQ&Module=Building&PublicUserID=PUBLICUSER0&ScheduledType=Unknown&Action=ViewDetails&ID=155838&IsFromWizardPage=False&RequestDayOption=0&ContactChangeOption=Unknown&isPopup=Y&Status=Unknown&NavigationBeginPage=ViewDetails&TimeOption=Unknow"
+      },
+      {
+        "id": "273808",
+        "status": "Failed",
+        "type": "FI - Final Inspection",
+        "inspector": "Matthew Puntney",
+        "date": "12/09/2025 at 10:49 AM",
+        "detailsUrl": "/MECKLENBURG/Inspection/InspectionDetails.aspx?agencyCode=MECKLENBURG&RecordAltID=RES-NEW-25-000301&RecordID1=REC25&RecordID2=00000&RecordID3=00QLQ&Module=Building&PublicUserID=PUBLICUSER0&ScheduledType=Unknown&Action=ViewDetails&ID=273808&IsFromWizardPage=False&RequestDayOption=0&ContactChangeOption=Unknown&isPopup=Y&Status=Unknown&NavigationBeginPage=ViewDetails&TimeOption=Unknow"
+      },
+      {
+        "id": "281256",
+        "status": "Passed",
+        "type": "FI - Final Inspection",
+        "inspector": "Eric Durand",
+        "date": "12/15/2025 at 01:16 PM",
+        "detailsUrl": "/MECKLENBURG/Inspection/InspectionDetails.aspx?agencyCode=MECKLENBURG&RecordAltID=RES-NEW-25-000301&RecordID1=REC25&RecordID2=00000&RecordID3=00QLQ&Module=Building&PublicUserID=PUBLICUSER0&ScheduledType=Unknown&Action=ViewDetails&ID=281256&IsFromWizardPage=False&RequestDayOption=0&ContactChangeOption=Unknown&isPopup=Y&Status=Unknown&NavigationBeginPage=ViewDetails&TimeOption=Unknow"
+      }
+    ]
+  }
+}

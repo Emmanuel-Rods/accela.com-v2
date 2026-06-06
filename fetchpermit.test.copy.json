@@ -1,0 +1,79 @@
+[
+    {
+        "Date": "06/06/2025",
+        "Record Number": "RES-NEW-25-000310",
+        "Record Type": "Residential New Construction Permit",
+        "Description": "Residential Single Family Attached Dwelling",
+        "Project Name": "RRT50 - 20013 Faithwood Court",
+        "Address": "20013 FAITHWOOD CT, CHARLOTTE NC 28213",
+        "Status": "Closed - Withdrawn",
+        "Short Notes": "Duplex/2 Unit Building",
+        "recordId": "REC25-00000-00R97"
+    },
+    {
+        "Date": "06/06/2025",
+        "Record Number": "RES-NEW-25-000309",
+        "Record Type": "Residential New Construction Permit",
+        "Description": "sfr",
+        "Project Name": "SFR Sonoma Hills Lot 10",
+        "Address": "6721 BARCELONA WY, MECKLENBURG NC 28214",
+        "Status": "Closed - Complete",
+        "Short Notes": "SFR Sonoma Hills Lot 10",
+        "recordId": "REC25-00000-00R0I"
+    },
+    {
+        "Date": "06/05/2025",
+        "Record Number": "RES-NEW-25-000301",
+        "Record Type": "Residential New Construction Permit",
+        "Description": "New Construction Two Story Single Family Home with 4 bedrooms 3 baths 2 car garage",
+        "Project Name": "119 N GREGG ST",
+        "Address": "119 N GREGG ST, CHARLOTTE NC 28216",
+        "Status": "Closed - Complete",
+        "Short Notes": "Single Family Two Story",
+        "recordId": "REC25-00000-00QLQ"
+    },
+    {
+        "Date": "06/05/2025",
+        "Record Number": "RES-NEW-25-000299",
+        "Record Type": "Residential New Construction Permit",
+        "Description": "New Single Family Detached Dwelling",
+        "Project Name": "Griffith Lakes Lot 400",
+        "Address": "5024 MINT HARBOR WY, CHARLOTTE NC 28269",
+        "Status": "Closed - Complete",
+        "Short Notes": null,
+        "recordId": "REC25-00000-00QJR"
+    },
+    {
+        "Date": "06/05/2025",
+        "Record Number": "RES-NEW-25-000308",
+        "Record Type": "Residential New Construction Permit",
+        "Description": "Previously Master Plan Reviewed in Winchester, 2525 plan, master plan approval #464920 New master plan R-MP-001000New construction - single family home, two stories with an attached front loading two car garage. Rear of home will have a covered porch.  Home will have 5 bedrooms and 3 baths.  Exterior will be composed of brick.",
+        "Project Name": "Alton Creek Lot 4",
+        "Address": "8233 FRANKLIN TRAIL ST, MINT HILL NC 28227",
+        "Status": "Closed - Complete",
+        "Short Notes": "Alton Creek Lot 4",
+        "recordId": "REC25-00000-00QV6"
+    },
+    {
+        "Date": "06/05/2025",
+        "Record Number": "RES-NEW-25-000304",
+        "Record Type": "Residential New Construction Permit",
+        "Description": "SFR River District 17- 7245 Westrow Avenue",
+        "Project Name": "SFR River District 17- 7245 Westrow Avenue",
+        "Address": "7245 WESTROW AV, CHARLOTTE NC 28278",
+        "Status": "Closed - Complete",
+        "Short Notes": "SFR River District 17- 7245 Westrow Avenue",
+        "recordId": "REC25-00000-00QPD"
+    },
+    {
+        "Date": "06/05/2025",
+        "Record Number": "RES-NEW-25-000300",
+        "Record Type": "Residential New Construction Permit",
+        "Description": "New single-family dwelling.",
+        "Project Name": "147 WP",
+        "Address": "12005 MARINER DR, MINT HILL NC 28227",
+        "Status": "Closed - Complete",
+        "Short Notes": "147 Whitley Preserve",
+        "recordId": "REC25-00000-00QJW"
+    }
+]

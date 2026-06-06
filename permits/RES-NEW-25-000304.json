@@ -1,0 +1,210 @@
+{
+  "recordInfo": {
+    "recordId": "RES-NEW-25-000304",
+    "recordType": "Residential New Construction Permit",
+    "recordStatus": "Closed - Complete",
+    "expirationDate": "02/23/2027"
+  },
+  "workLocation": "7245 WESTROW AV | CHARLOTTE NC 28278 * |",
+  "applicant": {
+    "name": "Cynthia Blanidng",
+    "businessName": "CAROLINA COTTAGE HOMES LLC",
+    "address": "2250 WEST TYVOLA RD STE 100",
+    "region": "Charlotte, NC, 28217 CHARLOTTE, NC, 28217",
+    "country": "United States",
+    "phone": "7046214664",
+    "email": "submit@majpermits.com"
+  },
+  "licensedProfessionals": [
+    "Saussy Burbank GC, LLC Tommy.Crowell@saussyburbank.com | 2550 W Tyvola Rd Ste 100 | Charlotte, NC, 28217 | Building Contractor 38000 |"
+  ],
+  "projectDescription": "SFR River District 17- 7245 Westrow Avenue | SFR River District 17- 7245 Westrow Avenue | SFR River District 17- 7245 Westrow Avenue",
+  "owner": "CHARLOTTE NC 28217",
+  "relatedContacts": [
+    "Property Owner information Cynthia CAROLINA COTTAGE HOMES LLC | CAROLINA COTTAGE HOMES LLC | 2550 W TYVOLA RD STE 100 | CHARLOTTE, NC, 28217 | United StatesHome Phone:7046214664Work Phone:7046214664E-mail:Tommy.Crowell@saussyburbank.com Receive automatic email updates?: YesRequestor Association: Other"
+  ],
+  "applicationInformation": {},
+  "applicationInformationTables": {
+    "CONTRACTOR INFORMATION": [
+      {
+        "Trade License Type": "Contractor",
+        "License Number": "847",
+        "Contractor Name": "Corey Leatherwood",
+        "Total Construction Cost": "100",
+        "Scope of Work": "LOW VOLTAGE",
+        "Contractor Bond Account Name": "L & J ELECTRONICS INC",
+        "By Selecting Yes, You are certifying that this information is correct": "Yes"
+      },
+      {
+        "Trade License Type": "Plumbing Contractor",
+        "License Number": "2138",
+        "Contractor Name": "Matthew Robert Price",
+        "Total Construction Cost": "3000",
+        "Scope of Work": "PLUMBING",
+        "Contractor Bond Account Name": "Price Brothers Inc",
+        "By Selecting Yes, You are certifying that this information is correct": "Yes"
+      },
+      {
+        "Trade License Type": "Mechanical Contractor",
+        "License Number": "36569",
+        "Contractor Name": "Charles Edward Scott Jr.",
+        "Total Construction Cost": "100",
+        "Scope of Work": "PREFAB FIREPLACE",
+        "Contractor Bond Account Name": "Hearth Technologies",
+        "By Selecting Yes, You are certifying that this information is correct": "Yes"
+      },
+      {
+        "Trade License Type": "Mechanical Contractor",
+        "License Number": "29255",
+        "Contractor Name": "Christopher Cabble Bralley",
+        "Total Construction Cost": "3000",
+        "Scope of Work": "MECHANICAL",
+        "Contractor Bond Account Name": "MTB Mechanical Inc",
+        "By Selecting Yes, You are certifying that this information is correct": "Yes"
+      },
+      {
+        "Trade License Type": "Electrical Contractor",
+        "License Number": "26342",
+        "Contractor Name": "ACH Electric Inc.",
+        "Total Construction Cost": "3000",
+        "Scope of Work": "ELECTRICAL",
+        "Contractor Bond Account Name": "ACH ELECTRIC INC",
+        "By Selecting Yes, You are certifying that this information is correct": "Yes"
+      },
+      {
+        "Trade License Type": "Building Contractor",
+        "License Number": "38000",
+        "Contractor Name": "Saussy Burbank GC, LLC",
+        "Total Construction Cost": "150000",
+        "Scope of Work": "SFR",
+        "Contractor Bond Account Name": "SAUSSY BURBANK GC LLC",
+        "By Selecting Yes, You are certifying that this information is correct": "Yes"
+      }
+    ]
+  },
+  "parcelInformation": {
+    "Parcel Number": "11320214",
+    "Block": "--",
+    "Lot": "--Subdivision:--"
+  },
+  "inspection": {
+    "summary": {
+      "totalCompleted": 14,
+      "statusBreakdown": "Cancelled - 1; Failed - 6; Passed - 7"
+    },
+    "inspections": [
+      {
+        "id": "107319",
+        "status": "Failed",
+        "type": "FD - Foundation",
+        "inspector": "TB",
+        "date": "06/20/2025 at 09:58 AM",
+        "detailsUrl": "/MECKLENBURG/Inspection/InspectionDetails.aspx?agencyCode=MECKLENBURG&RecordAltID=RES-NEW-25-000304&RecordID1=REC25&RecordID2=00000&RecordID3=00QPD&Module=Building&PublicUserID=PUBLICUSER0&ScheduledType=Unknown&Action=ViewDetails&ID=107319&IsFromWizardPage=False&RequestDayOption=0&ContactChangeOption=Unknown&isPopup=Y&Status=Unknown&NavigationBeginPage=ViewDetails&TimeOption=Unknow"
+      },
+      {
+        "id": "109349",
+        "status": "Failed",
+        "type": "FD - Foundation",
+        "inspector": "Brandon Smith",
+        "date": "06/24/2025 at 10:53 AM",
+        "detailsUrl": "/MECKLENBURG/Inspection/InspectionDetails.aspx?agencyCode=MECKLENBURG&RecordAltID=RES-NEW-25-000304&RecordID1=REC25&RecordID2=00000&RecordID3=00QPD&Module=Building&PublicUserID=PUBLICUSER0&ScheduledType=Unknown&Action=ViewDetails&ID=109349&IsFromWizardPage=False&RequestDayOption=0&ContactChangeOption=Unknown&isPopup=Y&Status=Unknown&NavigationBeginPage=ViewDetails&TimeOption=Unknow"
+      },
+      {
+        "id": "111697",
+        "status": "Passed",
+        "type": "FT - Footing",
+        "inspector": "TB",
+        "date": "06/27/2025 at 01:00 PM",
+        "detailsUrl": "/MECKLENBURG/Inspection/InspectionDetails.aspx?agencyCode=MECKLENBURG&RecordAltID=RES-NEW-25-000304&RecordID1=REC25&RecordID2=00000&RecordID3=00QPD&Module=Building&PublicUserID=PUBLICUSER0&ScheduledType=Unknown&Action=ViewDetails&ID=111697&IsFromWizardPage=False&RequestDayOption=0&ContactChangeOption=Unknown&isPopup=Y&Status=Unknown&NavigationBeginPage=ViewDetails&TimeOption=Unknow"
+      },
+      {
+        "id": "113282",
+        "status": "Passed",
+        "type": "FD - Foundation",
+        "inspector": "TB",
+        "date": "06/30/2025 at 11:07 AM",
+        "detailsUrl": "/MECKLENBURG/Inspection/InspectionDetails.aspx?agencyCode=MECKLENBURG&RecordAltID=RES-NEW-25-000304&RecordID1=REC25&RecordID2=00000&RecordID3=00QPD&Module=Building&PublicUserID=PUBLICUSER0&ScheduledType=Unknown&Action=ViewDetails&ID=113282&IsFromWizardPage=False&RequestDayOption=0&ContactChangeOption=Unknown&isPopup=Y&Status=Unknown&NavigationBeginPage=ViewDetails&TimeOption=Unknow"
+      },
+      {
+        "id": "116123",
+        "status": "Passed",
+        "type": "SL - Slab",
+        "inspector": "TB",
+        "date": "07/07/2025 at 09:13 AM",
+        "detailsUrl": "/MECKLENBURG/Inspection/InspectionDetails.aspx?agencyCode=MECKLENBURG&RecordAltID=RES-NEW-25-000304&RecordID1=REC25&RecordID2=00000&RecordID3=00QPD&Module=Building&PublicUserID=PUBLICUSER0&ScheduledType=Unknown&Action=ViewDetails&ID=116123&IsFromWizardPage=False&RequestDayOption=0&ContactChangeOption=Unknown&isPopup=Y&Status=Unknown&NavigationBeginPage=ViewDetails&TimeOption=Unknow"
+      },
+      {
+        "id": "142485",
+        "status": "Cancelled",
+        "type": "SH - Sheathing",
+        "inspector": "",
+        "date": "",
+        "detailsUrl": "/MECKLENBURG/Inspection/InspectionDetails.aspx?agencyCode=MECKLENBURG&RecordAltID=RES-NEW-25-000304&RecordID1=REC25&RecordID2=00000&RecordID3=00QPD&Module=Building&PublicUserID=PUBLICUSER0&ScheduledType=Unknown&Action=ViewDetails&ID=142485&IsFromWizardPage=False&RequestDayOption=0&ContactChangeOption=Unknown&isPopup=Y&Status=Unknown&NavigationBeginPage=ViewDetails&TimeOption=Unknow"
+      },
+      {
+        "id": "142486",
+        "status": "Passed",
+        "type": "SH - Sheathing",
+        "inspector": "Mark Hogan",
+        "date": "08/08/2025 at 12:36 PM",
+        "detailsUrl": "/MECKLENBURG/Inspection/InspectionDetails.aspx?agencyCode=MECKLENBURG&RecordAltID=RES-NEW-25-000304&RecordID1=REC25&RecordID2=00000&RecordID3=00QPD&Module=Building&PublicUserID=PUBLICUSER0&ScheduledType=Unknown&Action=ViewDetails&ID=142486&IsFromWizardPage=False&RequestDayOption=0&ContactChangeOption=Unknown&isPopup=Y&Status=Unknown&NavigationBeginPage=ViewDetails&TimeOption=Unknow"
+      },
+      {
+        "id": "176015",
+        "status": "Failed",
+        "type": "FR - Framing",
+        "inspector": "Mark Hogan",
+        "date": "09/10/2025 at 01:35 PM",
+        "detailsUrl": "/MECKLENBURG/Inspection/InspectionDetails.aspx?agencyCode=MECKLENBURG&RecordAltID=RES-NEW-25-000304&RecordID1=REC25&RecordID2=00000&RecordID3=00QPD&Module=Building&PublicUserID=PUBLICUSER0&ScheduledType=Unknown&Action=ViewDetails&ID=176015&IsFromWizardPage=False&RequestDayOption=0&ContactChangeOption=Unknown&isPopup=Y&Status=Unknown&NavigationBeginPage=ViewDetails&TimeOption=Unknow"
+      },
+      {
+        "id": "178125",
+        "status": "Failed",
+        "type": "FR - Framing",
+        "inspector": "Mark Hogan",
+        "date": "09/11/2025 at 01:32 PM",
+        "detailsUrl": "/MECKLENBURG/Inspection/InspectionDetails.aspx?agencyCode=MECKLENBURG&RecordAltID=RES-NEW-25-000304&RecordID1=REC25&RecordID2=00000&RecordID3=00QPD&Module=Building&PublicUserID=PUBLICUSER0&ScheduledType=Unknown&Action=ViewDetails&ID=178125&IsFromWizardPage=False&RequestDayOption=0&ContactChangeOption=Unknown&isPopup=Y&Status=Unknown&NavigationBeginPage=ViewDetails&TimeOption=Unknow"
+      },
+      {
+        "id": "185099",
+        "status": "Passed",
+        "type": "FR - Framing",
+        "inspector": "Mark Hogan",
+        "date": "09/18/2025 at 12:21 PM",
+        "detailsUrl": "/MECKLENBURG/Inspection/InspectionDetails.aspx?agencyCode=MECKLENBURG&RecordAltID=RES-NEW-25-000304&RecordID1=REC25&RecordID2=00000&RecordID3=00QPD&Module=Building&PublicUserID=PUBLICUSER0&ScheduledType=Unknown&Action=ViewDetails&ID=185099&IsFromWizardPage=False&RequestDayOption=0&ContactChangeOption=Unknown&isPopup=Y&Status=Unknown&NavigationBeginPage=ViewDetails&TimeOption=Unknow"
+      },
+      {
+        "id": "198640",
+        "status": "Failed",
+        "type": "IN - Insulation",
+        "inspector": "Mark Hogan",
+        "date": "10/02/2025 at 01:31 PM",
+        "detailsUrl": "/MECKLENBURG/Inspection/InspectionDetails.aspx?agencyCode=MECKLENBURG&RecordAltID=RES-NEW-25-000304&RecordID1=REC25&RecordID2=00000&RecordID3=00QPD&Module=Building&PublicUserID=PUBLICUSER0&ScheduledType=Unknown&Action=ViewDetails&ID=198640&IsFromWizardPage=False&RequestDayOption=0&ContactChangeOption=Unknown&isPopup=Y&Status=Unknown&NavigationBeginPage=ViewDetails&TimeOption=Unknow"
+      },
+      {
+        "id": "205687",
+        "status": "Passed",
+        "type": "IN - Insulation",
+        "inspector": "Mark Hogan",
+        "date": "10/07/2025 at 03:05 PM",
+        "detailsUrl": "/MECKLENBURG/Inspection/InspectionDetails.aspx?agencyCode=MECKLENBURG&RecordAltID=RES-NEW-25-000304&RecordID1=REC25&RecordID2=00000&RecordID3=00QPD&Module=Building&PublicUserID=PUBLICUSER0&ScheduledType=Unknown&Action=ViewDetails&ID=205687&IsFromWizardPage=False&RequestDayOption=0&ContactChangeOption=Unknown&isPopup=Y&Status=Unknown&NavigationBeginPage=ViewDetails&TimeOption=Unknow"
+      },
+      {
+        "id": "357671",
+        "status": "Failed",
+        "type": "FI - Final Inspection",
+        "inspector": "Mark Hogan",
+        "date": "02/18/2026 at 01:12 PM",
+        "detailsUrl": "/MECKLENBURG/Inspection/InspectionDetails.aspx?agencyCode=MECKLENBURG&RecordAltID=RES-NEW-25-000304&RecordID1=REC25&RecordID2=00000&RecordID3=00QPD&Module=Building&PublicUserID=PUBLICUSER0&ScheduledType=Unknown&Action=ViewDetails&ID=357671&IsFromWizardPage=False&RequestDayOption=0&ContactChangeOption=Unknown&isPopup=Y&Status=Unknown&NavigationBeginPage=ViewDetails&TimeOption=Unknow"
+      },
+      {
+        "id": "364950",
+        "status": "Passed",
+        "type": "FI - Final Inspection",
+        "inspector": "Mark Hogan",
+        "date": "02/23/2026 at 10:37 AM",
+        "detailsUrl": "/MECKLENBURG/Inspection/InspectionDetails.aspx?agencyCode=MECKLENBURG&RecordAltID=RES-NEW-25-000304&RecordID1=REC25&RecordID2=00000&RecordID3=00QPD&Module=Building&PublicUserID=PUBLICUSER0&ScheduledType=Unknown&Action=ViewDetails&ID=364950&IsFromWizardPage=False&RequestDayOption=0&ContactChangeOption=Unknown&isPopup=Y&Status=Unknown&NavigationBeginPage=ViewDetails&TimeOption=Unknow"
+      }
+    ]
+  }
+}
