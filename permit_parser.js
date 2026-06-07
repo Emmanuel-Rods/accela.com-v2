@@ -1,5 +1,4 @@
 const cheerio = require("cheerio");
-const fs = require("fs");
 
 // Helper function to clean up messy HTML text (removes extra spaces, newlines, etc.)
 const cleanText = (text) => {
@@ -26,6 +25,24 @@ function parsePermits(htmlString) {
   const $ = cheerio.load(htmlString);
   const result = {};
 
+  // Helper to extract phones specifically formatted with .ACA_PhoneNumberLTR
+  // Finds the number and looks at the adjacent cell for the type (e.g. "Work Phone")
+  const extractPhones = (context) => {
+    const phones = {};
+    $(context)
+      .find(".ACA_PhoneNumberLTR")
+      .each((i, el) => {
+        let type = cleanText(
+          $(el).closest("tr").find("td").first().text(),
+        ).replace(":", "");
+        let num = cleanText($(el).text());
+        if (type && num) {
+          phones[type] = num;
+        }
+      });
+    return phones;
+  };
+
   // 1. Top Level Record Info
   result.recordInfo = {
     recordId: cleanText($("#ctl00_PlaceHolderMain_lblPermitNumber").text()),
@@ -40,41 +57,60 @@ function parsePermits(htmlString) {
   result.workLocation = parseBrBlock($, "#tbl_worklocation .NotBreakWord");
 
   // 3. Record Details (Main blocks)
+  const applicantTd = $('span[id*="label_applicant"]').closest("td");
   result.applicant = {
     name: cleanText(
-      $(".contactinfo_firstname").first().text() +
+      applicantTd.find(".contactinfo_firstname").first().text() +
         " " +
-        $(".contactinfo_lastname").first().text(),
+        applicantTd.find(".contactinfo_lastname").first().text(),
     ),
-    businessName: cleanText($(".contactinfo_businessname").first().text()),
-    address: cleanText($(".contactinfo_addressline1").first().text()),
-    region: cleanText(
-      $(".contactinfo_region")
-        .map((i, el) => $(el).text())
-        .get()
-        .join(" "),
+    businessName: cleanText(
+      //   applicantTd.find(".contactinfo_businessname").first().text(),
+      $(".contactinfo_businessname").first().text(),
     ),
-    country: cleanText($(".contactinfo_country").first().text()),
-    phone: cleanText(
-      $(".contactinfo_phone1").text().replace("Home Phone:", ""),
+    address: cleanText(
+      applicantTd.find(".contactinfo_addressline1").first().text(),
     ),
+    // Using Set to prevent duplication if elements overlap
+    region: [
+      ...new Set(
+        applicantTd
+          .find(".contactinfo_region")
+          .map((i, el) => cleanText($(el).text()))
+          .get(),
+      ),
+    ].join(" "),
+    country: cleanText(applicantTd.find(".contactinfo_country").first().text()),
     email: cleanText(
-      $(".contactinfo_email").first().text().replace("E-mail:", ""),
+      applicantTd
+        .find(".contactinfo_email")
+        .first()
+        .text()
+        .replace("E-mail:", ""),
     ),
+    // Attach dynamically parsed phones
+    phones: extractPhones(applicantTd),
   };
 
-  // Licensed Professionals (Grabs visible and hidden/additional ones)
+  // Licensed Professionals
   result.licensedProfessionals = [];
-  $("#tbl_licensedps tr").each((i, el) => {
-    let text = parseBrBlock($, $(el).find("td").eq(1));
-    // Filter out empty rows and "View Additional..." links
-    if (text && !text.includes("View Additional")) {
-      result.licensedProfessionals.push(text);
-    }
-  });
+  $("#tbl_licensedps")
+    .find("tr")
+    .each((i, el) => {
+      // Prevent grabbing nested TRs (which caused the standalone phone number strings in your old array)
+      if ($(el).closest("table").attr("id") !== "tbl_licensedps") return;
+
+      let text = parseBrBlock($, $(el).find("> td").eq(1));
+      if (text && !text.includes("View Additional")) {
+        // Changed to objects to keep plaintext while exposing phones cleanly
+        result.licensedProfessionals.push({
+          rawText: text,
+          phones: extractPhones(el),
+        });
+      }
+    });
 
   // Project Description & Owner
-  // These are found in the large permit details table by targeting their adjacent header span IDs
   result.projectDescription = parseBrBlock(
     $,
     $('span[id*="label_project"]').closest("td").find(".table_child td").eq(1),
@@ -88,7 +124,14 @@ function parsePermits(htmlString) {
   result.relatedContacts = [];
   $("#trRCList .MoreDetail_ItemCol").each((i, el) => {
     let text = parseBrBlock($, el);
-    if (text) result.relatedContacts.push(text);
+    if (text) {
+      // Changed to objects to keep plaintext while exposing phones cleanly
+      result.relatedContacts.push({
+        type: cleanText($(el).find("h2").text()), // Grabs "Property Owner information", etc.
+        rawText: text,
+        phones: extractPhones(el),
+      });
+    }
   });
 
   // 5. Application Information (ASI - Key/Value pairs grouped by category)
@@ -161,7 +204,5 @@ function parsePermits(htmlString) {
 
   return result;
 }
-
-// console.log(JSON.stringify(parsedData, null, 2));
 
 module.exports = parsePermits;
