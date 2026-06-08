@@ -49,7 +49,7 @@ function parseInspectionsData(inspectionHTML) {
     // Separate the Inspector Name and Date using Regex
     let inspector = "";
     let date = "";
-    const resultMatch = resultText.match(/Result by:\s+(.+)\s+on\s+(.+)/);
+    const resultMatch = resultText.match(/\w+\s+by:\s+(.+)\s+on\s+(.+)/);
     if (resultMatch) {
       inspector = resultMatch[1].trim(); // "Paul Phipps"
       date = resultMatch[2].trim(); // "06/20/2025 at 10:21 AM"
