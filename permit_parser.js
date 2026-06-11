@@ -21,7 +21,7 @@ const parseBrBlock = ($, element) => {
   );
 };
 
-function parsePermits(htmlString) {
+function parsePermits(htmlString, recordId) {
   const $ = cheerio.load(htmlString);
   const result = {};
 
@@ -48,6 +48,7 @@ function parsePermits(htmlString) {
     "Record Number": cleanText(
       $("#ctl00_PlaceHolderMain_lblPermitNumber").text(),
     ),
+    recordId: recordId,
     recordType: cleanText($("#ctl00_PlaceHolderMain_lblPermitType").text()),
     recordStatus: cleanText($("#ctl00_PlaceHolderMain_lblRecordStatus").text()),
     expirationDate: cleanText(

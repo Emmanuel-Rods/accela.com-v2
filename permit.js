@@ -13,7 +13,7 @@ async function fetchPermitData() {
   try {
     // 1. Read the data from data.json
     console.log("Reading data.json");
-    const fileContent = await fs.readFile("fetchpermit.test.copy.json", "utf8");
+    const fileContent = await fs.readFile("fetchpermit.test.json", "utf8");
     const records = JSON.parse(fileContent);
 
     // 2. Loop over each record in the JSON array
@@ -56,7 +56,7 @@ async function fetchPermitData() {
         `Success! Retrieved ${htmlContent.length} characters of HTML for ${recordId}.`,
       );
 
-      const permit = parsePermits(htmlContent); // permit data
+      const permit = parsePermits(htmlContent, recordId); // permit data
       const inspection = await getInspection(url, htmlContent, cookies); // inspection data here
       const data = { ...permit, inspection };
       await fs.writeFile(
