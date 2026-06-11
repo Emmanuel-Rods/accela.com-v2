@@ -45,7 +45,9 @@ function parsePermits(htmlString) {
 
   // 1. Top Level Record Info
   result.recordInfo = {
-    recordId: cleanText($("#ctl00_PlaceHolderMain_lblPermitNumber").text()),
+    "Record Number": cleanText(
+      $("#ctl00_PlaceHolderMain_lblPermitNumber").text(),
+    ),
     recordType: cleanText($("#ctl00_PlaceHolderMain_lblPermitType").text()),
     recordStatus: cleanText($("#ctl00_PlaceHolderMain_lblRecordStatus").text()),
     expirationDate: cleanText(
